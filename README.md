@@ -1,7 +1,9 @@
 # Borrowers
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+Currently in progress:
+
+This is a tutorial from Ember-CLI 101 by Adolfo Builes
+
 
 ## Prerequisites
 
